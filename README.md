@@ -1,1 +1,0 @@
-# firebase-blog-app
